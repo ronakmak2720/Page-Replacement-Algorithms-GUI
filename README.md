@@ -16,7 +16,6 @@ For the construction of GUI/Desktop App we have used 7 major libraries for the p
 Attaching the whole project implementation readme file and pdf with this description to help you compile and run the code efficiently on you machine :-
 
 [ReadMe FIle.pdf](https://github.com/ronakmak2720/Page-Replacement-Algorithms-GUI/blob/main/ReadMe%20FIle.pdf)
-
 [Operating Systems Lab Project.pdf](https://github.com/ronakmak2720/Page-Replacement-Algorithms-GUI/blob/main/Team%2034%20Project%20Report.pdf)
 
 If you are still facing ambiguity about the project.Check out our YouTube video for the small implementation of the project.👇
