@@ -17,7 +17,7 @@ Attaching the whole project implementation readme file and pdf with this descrip
 
 [ReadMe FIle.pdf](https://github.com/ronakmak2720/Page-Replacement-Algorithms-GUI/blob/main/ReadMe%20FIle.pdf)
 
-[Operating Systems Lab Project.pdf](https://github.com/PrachiDoshi2170/Page-Replacement_Algorithm-GUI/files/6241534/Operating.Systems.Lab.Project.pdf)
+[Operating Systems Lab Project.pdf](https://github.com/ronakmak2720/Page-Replacement-Algorithms-GUI/blob/main/Team%2034%20Project%20Report.pdf)
 
 If you are still facing ambiguity about the project.Check out our YouTube video for the small implementation of the project.👇
 https://youtu.be/HN1q2RBZEFE
